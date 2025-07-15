@@ -11,7 +11,7 @@ from sklearn.feature_selection import VarianceThreshold
 from IPython.display import display
 
 # %%
-dat = pd.read_csv("C:/Lumos/YFAIGO/col707.csv")
+dat = pd.read_csv("../data/col707.csv")
 
 # %%
 dat.drop(columns = ['Unnamed: 0', 'ID'], inplace=True)
