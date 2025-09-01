@@ -1,5 +1,5 @@
 ## Project Overview
-This project was developed for the **2025 SinoPac AI-GO competition**, where the objective is to build a machine learning model to classify whether a stock will become a **momentum stock (y=1)** or **non-momentum stock (y=0)**.  
+This project was developed for the **2025 SinoPac AI-GO competition**, where the objective is to maximize F1-score by building a machine learning model to classify whether a stock will become a **momentum stock (y=1)** or **non-momentum stock (y=0)**.  
 
 The problem is formulated as a **binary classification task**, and we focus on feature engineering, machine learning models, and evaluation metrics to maximize predictive performance.
 
