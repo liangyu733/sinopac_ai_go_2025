@@ -1,4 +1,3 @@
-"""
 ## Project Overview
 This project was developed for the **2025 SinoPac AI-GO competition**, where the objective is to build a machine learning model to classify whether a stock will become a **momentum stock (y=1)** or **non-momentum stock (y=0)**.  
 
@@ -43,4 +42,4 @@ We evaluated models using multiple metrics to ensure robustness:
 - **Accuracy**  
 - **F1-score**  
 - **ROC-AUC**  
-"""
+
